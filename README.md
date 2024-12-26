@@ -50,7 +50,7 @@ To clone and run this project on your local machine:
 1. Install **Android Studio**.  
 2. Clone this repository:  
    ```bash  
-   https://github.com/thirusudar03092003/PRODIGY_AD_01.git 
+   https://github.com/mohanarajanreddy/PRODIGY_AD_01.git 
    ```  
 3. Open the project in **Android Studio**.  
 4. Build and run the application on an emulator or physical device.  
