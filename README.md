@@ -58,7 +58,7 @@ To clone and run this project on your local machine:
 ---
 
 ## 🙌 **Credits**  
-- **Developed by**: Thiru Sudar S L
+- **Developed by**: Mohanarajan Reddy
 - **As part of**: Prodigy InfoTech Android Development Internship  
 
 ---
